@@ -9,3 +9,5 @@ Projetos Front End usando HTML, CSS E JavaScript
 <p> Projeto 4 -  https://tayna0202.github.io/Projetos_Front_End/Proj_04
 <p> Projeto 5 -  https://tayna0202.github.io/Projetos_Front_End/Proj_05
 <p> Projeto 6 -  https://tayna0202.github.io/Projetos_Front_End/Proj_06
+
+<h3>Projeto finalizado<h3>
